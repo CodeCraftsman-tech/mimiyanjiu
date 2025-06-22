@@ -1,0 +1,245 @@
+# 秘密研究所好好学习资源：模板入口一站式分享
+此页面大家可以按照自己理解和需求去优化，有问题可以随时在此留言，也可以发送邮件到我邮箱 huifudizhi@gmail.com(ps：发送任意内容给我，获得关于秘密的你想要的内容）
+
+## 这个页面是一个\*\*“秘密研究所”\*\*的最新地址发布页，它提供了多个入口和解决方案，帮助用户快速访问该网站，尤其是在其他常规入口失效时。
+
+
+```
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>【秘密研究所】最新地址入口发布页</title>
+<meta name="description" content="秘密网站入口是一款宅男宅女最喜爱的网站收录大全网站，本站旨在为您提供最新最全的秘密入口地址发布页，您可以发送任意邮件内容至秘密研究所邮箱来自动回复最新地址！">
+<meta name="keywords" content="秘密研究所,秘密入口,秘密入口最新地址,秘密入口官网,最新地址,最新地址发布页,地址发布页,秘密入口导航,秘密研究所地址">
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="">
+<meta property="og:title" content="秘密研究所-专属于宅男的秘密导航网站">
+<meta property="og:description" content="秘密研究所是你の秘密导航姬！我們及時收錄最新鮮的宅男网站、萌妹网站、技术网站等內容。讓您獲得更加簡單快捷の福利體驗！">
+<meta property="og:image" content="img/icon.png">
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="">
+<meta property="twitter:title" content="秘密研究所-专属于宅男的秘密导航网站">
+<meta property="twitter:description" content="秘密研究所是你の秘密导航姬！我們及時收錄最新鮮的宅男网站、萌妹网站、技术网站等內容。讓您獲得更加簡單快捷の福利體驗！">
+<meta property="twitter:image" content="img/icon.png">
+<meta name="twitter:site" content="@mimi">
+<meta name="twitter:creator" content="@mimi">
+<link rel="shortcut icon" href="img/favicon.ico">
+<link rel="stylesheet" href="static/css/reset.min.css">
+<link rel="stylesheet" href="static/css/star.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "【秘密研究所】最新地址入口发布页",
+  "alternateName": "【秘密研究所】最新地址入口发布页",
+  "url": "https://www.mmrk.cc",
+  "description": "秘密研究所,秘密入口,秘密入口最新地址,秘密入口官网,最新地址,最新地址发布页,地址发布页,秘密入口导航,秘密研究所地址",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.github.com?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<style>
+*,:after,:before{box-sizing:border-box;outline:0}
+body,html{font-family:"SF Pro SC","SF Pro Text","SF Pro Icons","AOS Icons","PingFang SC","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Microsoft Yahei",微软雅黑,STHeiti,华文细黑,sans-serif;line-height:1;text-align:center;letter-spacing:1px}
+html{font-size:16px}
+a{text-decoration:none;color:#fff}
+.container{position:relative;width:100%;display:flex;justify-content:center;align-items:center;flex-direction:column;text-align:left;padding:50px 0;overflow:hidden}
+.c1{background-image:linear-gradient(1deg,#f35d44,#f35c44 51%,#dd0f3a);color:#fff}
+.c2{background-color:#fff;color:#666;padding-top:0}
+.content{width:100%;max-width:1024px;display:flex;justify-content:center;padding:0 100px;z-index:1}
+.c2 .content{flex-direction:column}
+.iphone_img{max-width:256px;max-height:512px}
+.right{max-width:518px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.logo_img{max-width:350px;width:80%;margin-bottom:46px}
+.download_content{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;margin:30px 0 20px}
+.download_content .btn{width:40%;max-width:170px;height:45px;line-height:45px;text-align:center;margin:7.5px 9px;box-shadow:5px 5px 0 0 #f44336;border-radius:5px;background:rgba(255,255,255,.3);color:#fff;font-size:.9375em;cursor:pointer;position:relative}
+.download_content .btn:hover{background:#ff6ea1;color:#fff}
+.icon{width:20px;height:20px;display:inline-block;vertical-align:middle;margin-right:2px;background-size:cover}
+.android{background-image:url(static/image/pc_ad.png)}
+.ios{background-image:url(static/image/pc_ios.png)}
+.QandA{position:relative;display:flex;margin-top:30px;margin-bottom:15px}
+.QandA>div{width:100%;display:flex}
+.QandA span{margin-right:32px;display:inline-block;vertical-align:top}
+.QandA span:first-of-type{width:30px;color:#e85151;font-size:2.25rem}
+.QandA .btn{position:absolute;right:0;top:0;width:100px;height:32px;line-height:32px;color:#e85151;border:1px solid #f7cdcd;font-size:.9375rem;text-align:center;border-radius:50px}
+h1{font-size:3rem;font-weight:600;letter-spacing:2.8px;margin-bottom:20px}
+h2{font-size:1.2rem;letter-spacing:1.2px;font-weight:500}
+p{font-size:.8rem;letter-spacing:1.2px;line-height:1.6}
+.c2 .main_title{display:inline-block;position:relative;color:#e85151;border-bottom:3px solid #d9d9d9;padding-bottom:15px;z-index:1}
+.c2 .main_title:after{content:'';position:absolute;width:150px;display:block;bottom:-3px;left:0;border-bottom:3px solid #e85151}
+.c2 h2{font-size:2.25rem}
+.c2 h3{font-size:1.5rem}
+.c2 h2 span{color:#666;font-size:13px;position:absolute;top:0;left:160px;line-height:1.4}
+.qu{font-size:1.25rem;font-weight:500;margin-bottom:7px}
+.ans{line-height:2.13}
+.line{background-color:#eee;height:1px}
+.ground_img{width:100%;background-color:#f35d44}
+footer{width:100%;height:200px;background-image:url(static/image/footer.png);background-repeat:no-repeat;background-position:center;background-size:cover}
+footer img{width:168px}
+footer .footer{display:flex;justify-content:flex-end;flex-direction:column;align-items:center;width:100%;height:100%;padding-bottom:40px;color:#fff;font-weight:300}
+footer p{font-size:1rem;text-align:left;line-height:1.5}
+.fixed{position:fixed;display:none;flex-direction:column;justify-content:center;align-items:center;top:0;left:0;width:100%;height:100vh;background-color:rgba(0,0,0,.9);z-index:100}
+.fixed.show{display:flex}
+.fixed p{width:100%;color:#e85151;font-size:36px;margin-bottom:20px}
+.fixed p{width:100%;color:#e85151;font-size:36px;margin-bottom:20px}
+.fixed div{color:#fff;margin-top:30px;max-width:350px;line-height:1.333}
+.incap_page-tooltip{display:none}
+@media (max-width:992px){.content{padding:0 50px}
+}
+@media (max-width:767px){html{font-size:14px}
+.iphone_img{display:none}
+.right{width:100%;margin-left:0}
+.img_content>div{margin:0 10px}
+.c2 h2 span{position:initial;display:block;margin-top:10px}
+}
+@media (max-width:640px){.container{padding:30px 0}
+.c2{padding-bottom:0}
+.content{padding:0 25px}
+.img_content{flex-direction:column;margin-top:25px}
+.img_content>div{margin:10px 0}
+.bank_content img{width:100%}
+.bank_content img:first-of-type{margin-right:0;margin-bottom:15px}
+footer{background-image:url(https://yanjiu.lol/img/m_footer.png);background-position:bottom;height:150px;background-size:contain}
+footer .footer{padding-bottom:10px}
+.android{background-image:url(https://yanjiu.lol/img/m_ad.png)}
+.ios{position:relative;background-image:url(https://yanjiu.lol/img/m_ios.png)}
+.QandA{flex-wrap:wrap}
+.QandA span{margin-right:20px}
+.QandA .btn{position:initial;margin-top:10px;margin-left:45px}
+}
+@media (max-width:320px){html{font-size:12px}
+.content{padding:0 10px}
+.img_content{flex-wrap:wrap}
+}
+</style>
+</head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+    <div class="container c1">
+        <div class="content">
+            <div class="right">
+                <img class="logo_img" src="static/picture/mimi_logo.png" alt="logo">
+                <h2>专属于宅男的秘密网址导航</h2>
+                <div class="download_content">
+                    <a class="btn pop android4" href="https://github.com/" target="_blank">最新地址一</a>
+                    <a class="btn pop ios4" href="https://github.com/" target="_blank">最新地址二</a>
+                    <a class="btn pop android3" href="https://github.com/" target="_blank">最新地址三</a>
+                    <a class="btn pop ios3" href="https://github.com/" target="_blank">最新地址四</a>
+                    <a class="btn pop android2" href="https://github.com/" target="_blank">最新地址五</a>
+                    <a class="btn pop ios2" href="https://github.com/" target="_blank">最新地址六</a>
+                </div>
+                <p>※秘密研究所永久承諾：免費、無毒、綠色!</p>
+                <p>※您还可以收藏永久发布地址：<a href="https://www.yanjiu.lat/" target="_blank" style="color:#fff;text-decoration: underline;">https://yanjiu.lat</a></p>
+            </div>
+        </div>
+        <div class="sky"></div>
+    </div>
+    <img class="ground_img" src="static/picture/mimi_bg.png" alt="ground">
+    <div class="container c2">
+        <div class="content">
+            <h2 class="main_title">常见问题<span>秘密研究所山寨版众多！很多无良小人直接镜像（或抄袭）本站，假“秘密研究所”之名义骗取流量，大家务必仔细辨别（无良小人为了赚钱不惜放置钓鱼、诈欺广告）！</span></h2>
+            <div class="QandA">
+                <div>
+                    <span>Q</span>
+                    <span>
+                        <p class="qu">如何更方便的访问“秘密研究所”？</p>
+                        <p class="ans">1.使用“CTRL+D”将本页面添加至您的浏览器收藏夹内，方便下次访问</p>
+                        <p class="ans">2.请牢记研究所短地址：baidu.com , github.com, sougou.com </p>
+                        <p class="ans">3.发送任意邮件到&nbsp;huifudizhi@gmail.com&nbsp;,自动回复最新地址</p>
+                        <p class="ans">4.<a style="color: #0000ff;" href="mimidizhi.html" target="_blank">把秘密入口保存到本地</a></p>
+                        <p class="ans">5.把本站域名手写到您的記事本上</p>
+                    </span>
+                </div>
+            </div>
+            <div class="line"></div>
+            <div class="QandA">
+                <div>
+                    <span>Q</span>
+                    <span>
+                        <p class="qu">“秘密研究所”是如何确保网站安全性的？</p>
+                        <p class="ans">1.本站所收录的全部网址均经过人工审核</p>
+                        <p class="ans">2.本站接受用户对违规站点的投诉，并及时下架违规站点</p>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>  
+    <footer>
+        <div class="footer">
+            <p>發布信箱：huifudizhi@gmail.com </p>
+            <p>CopyRight © 2023 All rights reserved.</p>
+        </div>
+    </footer>
+<script data-cfasync="false" src="static/js/email-decode.min.js"></script><script src="static/js/jquery.min.js"></script>
+<script src="static/js/star.js"></script>
+
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_sina_weibo"></a>
+<a class="a2a_button_wechat"></a>
+<a class="a2a_button_copy_link"></a>
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div>
+<script async src="static/js/page.js"></script>
+</body>
+</html>
+```
+### 页面功能介绍：
+
+1. **页面标题和描述：**
+
+   * **标题**：`【秘密研究所】最新地址入口发布页`
+   * **描述**：该页面的目标是帮助用户快速找到并访问“秘密研究所”的最新入口地址。这个网站专为宅男宅女群体提供各种类别的特殊网址，包括宅男网站、萌妹网站、技术站点等。
+
+2. **入口地址：**
+
+   * 页面提供了多个不同的入口链接，用户可以点击这些链接进入“秘密研究所”的最新地址。
+   * 每个入口链接都是针对不同设备（如Android和iOS）设置的，方便用户根据自己的设备选择合适的链接。
+
+3. **FAQ（常见问题）：**
+
+   * 页面中有详细的常见问题部分，解答了用户如何更方便地访问“秘密研究所”，如添加至收藏夹、保存短地址等。
+   * 还提到了一些网站的安全性和如何处理不安全内容的问题，说明所有收录的地址都经过人工审核，并且可以通过发送邮件获取最新地址。
+
+4. **页面设计和用户体验：**
+
+   * 页面设计采用了现代化、简洁的风格，使用了渐变色背景和动效，增强了视觉吸引力。
+   * 在移动端，页面也进行了响应式设计，确保在手机和平板设备上能够良好展示。
+
+5. **分享功能：**
+
+   * 页面支持社交媒体分享功能，用户可以通过Facebook、Twitter、Telegram等社交平台分享页面链接，或者复制链接与他人分享。
+
+6. **联系方式：**
+
+   * 提供了一个邮箱地址 (`huifudizhi@gmail.com`)，用户可以通过发送邮件获取最新的地址。
+
+### 页面设计亮点：
+
+* **视觉设计**：页面使用了渐变色背景、清晰的排版和富有动感的按钮，提升了用户的视觉体验。
+* **适配移动端**：页面自适应设计，使其在手机和平板设备上访问时保持良好的布局和易用性。
+* **安全性声明**：明确声明了所有网址经过人工审核，并及时下架违规站点，增强用户对网站的信任。
+
+### 页面代码和SEO优化：
+
+1. **SEO元素**：
+
+   * 页面包含了适当的meta标签，包括`description`和`keywords`，以帮助搜索引擎更好地索引页面内容。
+   * Open Graph和Twitter卡片的设置优化了页面在社交媒体上的展示效果。
+
+2. **结构化数据（Schema.org）**：
+
+   * 页面使用了`JSON-LD`结构化数据格式，标明了该网页的基本信息和潜在的搜索操作。这对于搜索引擎优化（SEO）非常有帮助。
+
+---
+
+
